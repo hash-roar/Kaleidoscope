@@ -1,3 +1,0 @@
-/home/onecho/local/github/Kaleidoscope/build/CMakeFiles/rebuild_cache.dir
-/home/onecho/local/github/Kaleidoscope/build/CMakeFiles/edit_cache.dir
-/home/onecho/local/github/Kaleidoscope/build/CMakeFiles/main.dir
