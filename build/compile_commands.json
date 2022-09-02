@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/onecho/local/github/Kaleidoscope/build",
+  "command": "/home/linuxbrew/.linuxbrew/bin/clang++    -g   -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/onecho/local/github/Kaleidoscope/main.cpp",
+  "file": "/home/onecho/local/github/Kaleidoscope/main.cpp"
+}
+]
